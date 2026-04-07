@@ -1,6 +1,7 @@
 /**
  * DEAD MAN'S SWITCH
  * Automated Check-in & Emergency Email System
+ * @osmanonurkoc
  */
 
 // ==========================================
